@@ -4,3 +4,4 @@ o que eu vou aprender na trybe:
 - Git
 - HTML
 - CSS
+-DOM
